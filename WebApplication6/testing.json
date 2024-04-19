@@ -1,0 +1,14 @@
+{
+  {
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "Microsoft.AspNetCore": "Warning",
+        "System": "Warning"
+      }
+    },
+    "AllowedHosts": "*",
+    "ConnectionStrings": {
+     "DefaultConnection" "Server=testingserver;Database=YourDatabase;User Id=YourUser;Password=YourPassword;"
+    }
+  }

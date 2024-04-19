@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb);Database=MyDataBase;Trusted_Connection=True;MultipleActiveResultsSets=true;"
+  },
+  "Logging": {
+    "LogServer": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  }
+}
